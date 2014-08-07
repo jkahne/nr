@@ -1,11 +1,16 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Nimble River
+email: hello@nimbleriver.com
+phone: 513.515.7977
+description: "Independent IT consultant interested in automated processes and streamlining workflows. <br/> Have an idea for a new product? We'd love to listen and collaborate with you to see  what we can accomplish. Contact us and let's discuss your idea over coffee."
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://nimbleriver.com"
+
+team:
+  - jeremy:
+    twitter_username: jeremykahne
+    github_username:  jkahne
+    linkedin_username:  jeremykahne
 
 # Build settings
 markdown: kramdown
