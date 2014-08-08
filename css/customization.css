@@ -8,3 +8,17 @@ html, body {
   text-align: center;
 }
 
+h2{
+  color:#555;
+
+}
+
+.subtitle{
+  letter-spacing:2px;
+  color:#BBB;
+  margin-bottom:0px;
+  padding:30px 30px 30px 30px;
+  font-size:22px;
+  line-height: 25px;
+  font-weight: 300;
+}

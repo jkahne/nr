@@ -1,4 +1,20 @@
-#what--we--do {
+#what-we-do {
   background: #fff;
-  /*padding: 70px 0px 50px; */
+  padding: 50px 0px 50px; 
 }
+
+
+.what-we-do--box {
+  padding: 10px;
+}
+.what-we-do--box h6 {
+  margin-top:20px;
+  text-transform:uppercase;
+  text-align: center;
+  color:#555;
+}
+
+.what-we-do--box p {
+  text-align: center;
+  color:#aaa;
+ }
