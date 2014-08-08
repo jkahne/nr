@@ -8,6 +8,7 @@
 
 .who-we-are--profile .circle{
   width:100%;
+  max-width: 200px;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   -o-border-radius: 50%;
@@ -16,18 +17,15 @@
 
 .who-we-are--profile .name {
   font-size: 18px;
-  color: #2e2e2e;
-  font-weight: normal;
-  font-style: normal;
+  font-weight: 600;
   margin: 10px 0 10px 0;
   display: inline-block;
   text-align: center;
   width: 100%;
 }
 
-.who-we-are--profile .details{
+.who-we-are--box{
   background: #FFF;
-
 }
 
 .who-we-are--profile .position {
@@ -42,10 +40,10 @@
   display: inline-block;
  }
 
- .who-we-are--profile .blackquote {
+ .who-we-are--profile .details {
    padding: 10px;
    display: block;
-   min-height:199px;
+   /*min-height:199px;*/
 }
 
 .who-we-are--profile .social {
