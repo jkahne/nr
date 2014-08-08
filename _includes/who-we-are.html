@@ -2,48 +2,37 @@
 
 <div class="container">
   <div class="row">
-    <div class="span12 centered">
+    <div class="col-sm-12 centered">
       <h2>who we are</h2>
     </div>
   </div>
   <div class="row">
-    <div class="span12 centered">
-      <p class="subtitle" >We lead lives of interesting adventures</p>
+    <div class="col-sm-12 centered">
+      <p>We lead lives of interesting adventures</p>
     </div>
   </div>
-  <div class="row span12">
-    <div class="span3">
-    </div>
-    <div class="span3 offset1">
+  <div class="row">
+    <div class="col-sm-3 col-sm-offset-5">
       <div class="team">
         <img src="img/mehh.png"/>
         <div class="name">Jeremy Kahne</div>
         <div class="position">Product Design, Lean Processes, UX, Backend </div>
         <div class="details">
           <blackquote>
-      "I enjoy spending time camping &amp; hiking, lifting &amp; running,  playing board games, drawing, and having a nice craft beer.  I work in my home office in Cincinnati, OH where I have entirely too many Lego sets sitting on my shelves."
+          "I enjoy spending time camping &amp; hiking, lifting &amp; running,  playing board games, drawing, and having a nice craft beer.  I work in my home office in Cincinnati, OH where I have entirely too many Lego sets sitting on my shelves."
           </blackquote>
           <span class="social">
 
-    {% for member in site.team %}
-      {% if member.github_username %}
-        <a href="https://github.com/{{ member.github_username }}"><i class="fa fa-github"></i></a>
-      {% endif %}
-      {% if member.twitter_username %}
-        <a href="https://twitter.com/{{ member.twitter_username }}"><i class="fa fa-twitter"></i></a>
-      {% endif %}
-      {% if member.linkedin_username %}
-        <a href="https://www.linkedin.com/in/{{ member.linkedin_username }}"><i class="fa fa-linkedin"></i></a>
-      {% endif %}
-
-    {% endfor %}
+            <a href="https://github.com/jkahne"><i class="fa fa-github"></i></a>
+            <a href="https://twitter.com/jeremykahne"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/in/jeremykahne"><i class="fa fa-linkedin"></i></a>
 
           </span>
         </div>
       </div>
     </div>
 
-    <div class="span3">
+    <div class="col-sm-3 col-sm-offest-1">
     </div>
 
   </div>

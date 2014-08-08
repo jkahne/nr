@@ -6,12 +6,6 @@ description: "Independent IT consultant interested in automated processes and st
 baseurl: ""
 url: "http://nimbleriver.com"
 
-team:
-  - jeremy:
-    twitter_username: jeremykahne
-    github_username:  jkahne
-    linkedin_username:  jeremykahne
-
 # Build settings
 markdown: kramdown
 permalink: pretty
