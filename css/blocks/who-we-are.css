@@ -46,22 +46,23 @@
    /*min-height:199px;*/
 }
 
-.who-we-are--profile .social {
-  color: #3b3b3b;
+.who-we-are--profile .links {
+  color: #aaa;
   font-size:12px;
   width: 100%;
   text-align: right;
-  padding-right:5px;
+  padding-right:10px;
+  padding-bottom:10px;
+   display: block;
 }
 
-.who-we-are--profile .social a {
+.who-we-are--profile .links a {
   float: right;
-  margin-left:5px;
-  padding-right:5px;
+  padding-left:10px;
   text-decoration:none;
   color: #aaa;
 }
 
-.who-we-are--profile .social a:hover {
-  color: #3b3b3b;
+.who-we-are--profile .links a:hover {
+  color: #555;
 }
