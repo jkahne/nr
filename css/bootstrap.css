@@ -1400,7 +1400,6 @@ pre code {
   .container {
     width: 750px;
   }
-  header {display:none;}
 }
 @media (min-width: 992px) {
   .container {
