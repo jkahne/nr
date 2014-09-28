@@ -112,12 +112,25 @@ I work in my home office in Cincinnati, OH where I have entirely too many Lego s
 
 
 
-[ ] create nimbleriver twitter
+
+what-we-do
+
+    <div class="col-sm-4">
+      <div class="what-we-do--box">
+        <h6>User Experience</h6>
+        <p>
+        User interaction can be streamlined by noticing everyday pain that customers experience and pay attention to it at every step of the development process. Finding the common ground of all user activities is what should be designed for, not individual preferences. You can recognize if you have a UX problem if customers are constantly asking the same support questions? 
+        </p>
+      </div>
+    </div>
+
+
+
+[x] create nimbleriver twitter
 [ ] add twitter feed here
 [ ] tell a story about what it's like to work with NR instead of normal marketing stuff on here.
 [ ] post about everything is an experiement
 [ ] post about replacing all the status reports with kanban board
 [ ] post about a small step in the right direction is progress and agility.  prag dave mentioned this on r    uby rogues
 [ ] metrics are useful only if it's measuring the right things.
-[ ] don't get me wrong planning is very important. If you don't make a business plan for hitting your goals this year you won't get there. But to make a plan that relies on Perfect business conditions is naïve. Think of scenarios that would result in a blow to your company and start formulating responses to them in advance. Build as much fluidity is possible giving you the maximum amount of flexibility to adapt.
 [ ] we need to plan to maximize the level of options that we have in the future. That will provide us the level of edit adaptivity the ability that we need.
