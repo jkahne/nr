@@ -38,9 +38,9 @@ Seeks to build a lasting relationship that results in rewarding outcomes
 
 
 18                                                                                                            19 ### Who You Are                                                                                            20
-You and your users like to discuss what you truly want out of your systems and want to have insight into h    ow everything is progressing. Constant communication and feedback are vitally necessary in producing succe    ssful software. We prefer to use Kanban boards to let everyone vizualize where every task stands.
+You and your users like to discuss what you truly want out of your systems and want to have insight into how everything is progressing. Constant communication and feedback are vitally necessary in producing successful software. We prefer to use Kanban boards to let everyone vizualize where every task stands.
 
-You embrace agile development methodologies and want to be listened to and colloraborted with to create th    e best possible outcome.  You want us to do more than "hit the bullet points" like what most consultancies     deliver. If the end product isn't usable, friendly, and stable then it isn't finished.
+You embrace agile development methodologies and want to be listened to and colloraborted with to create the best possible outcome.  You want us to do more than "hit the bullet points" like what most consultancies deliver. If the end product isn't usable, friendly, and stable then it isn't finished.
 
 
 ### What We Offer
