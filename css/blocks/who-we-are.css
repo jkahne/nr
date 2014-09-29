@@ -9,8 +9,9 @@
 }
 
 .who-we-are--profile .circle{
-  width:120%;
+  width:100%;
   max-width: 300px;
+  margin-top:25px;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   -o-border-radius: 50%;
